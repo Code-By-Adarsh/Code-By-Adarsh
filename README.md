@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=code-by-adarsh&label=Profile%20views&color=fc0303&style=flat" alt="code-by-adarsh" height="100" width="100"/> </p>
 
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <!-- Left side details -->
-    <td>
       
 - 🔭 I’m currently working on **preparation for GSoC-2026.**  
 
@@ -18,18 +14,12 @@
 
 - 📫 How to reach me **adarshmishra70931@gmail.com**  
 
-- ⚡ Fun fact **I think I am unique.**  
-
-    </td>
-
-    <!-- Right side gif -->
-    <td>
-      <img src="https://media0.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bGh6NHgxM244YTBieG41d3dtcnJwNDdvNXByenppaTRqd24zZWlvYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/IPWXYMP4t2ODvzwOYk/giphy.webp" width="300px">
-    </td>
-  </tr>
-</table>
+- ⚡ Fun fact **I think I am unique.**
 
 
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bGh6NHgxM244YTBieG41d3dtcnJwNDdvNXByenppaTRqd24zZWlvYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/IPWXYMP4t2ODvzwOYk/giphy.webp" width="400" height="300">
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
