@@ -9,11 +9,11 @@
 
 - 👯 I’m looking to collaborate on **startup ideas.**
 
-- 💬 Ask me about **Java problems.**
+- 💬 Ask me about **anything.**
 
 - 📫 How to reach me **adarshmishra70931@gmail.com**
 
-- ⚡ Fun fact **I think I can.**
+- ⚡ Fun fact **I think I am the big fan of Master Gojo Saturo.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
