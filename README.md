@@ -3,17 +3,33 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=code-by-adarsh&label=Profile%20views&color=fc0303&style=flat" alt="code-by-adarsh" height="100" width="100"/> </p>
 
-- 🔭 I’m currently working on **preparation for GSoC-2026.**
+<table width="100%">
+  <tr>
+    <!-- Left side details -->
+    <td>
+      
+- 🔭 I’m currently working on **preparation for GSoC-2026.**  
 
-- 🌱 I’m currently learning **Manual testing, Selenium and Jenkins.**
+- 🌱 I’m currently learning **Manual testing, Selenium and Jenkins.**  
 
-- 👯 I’m looking to collaborate on **startup ideas.**
+- 👯 I’m looking to collaborate on **startup ideas.**  
 
-- 💬 Ask me about **Java problems.**
+- 💬 Ask me about **Java problems.**  
 
-- 📫 How to reach me **adarshmishra70931@gmail.com**
+- 📫 How to reach me **adarshmishra70931@gmail.com**  
 
-- ⚡ Fun fact **I think I am unique.**
+- ⚡ Fun fact **I think I am unique.**  
+
+    </td>
+
+    <!-- Right side gif -->
+    <td>
+      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGl1YjMzcnlwMThidWhiajVhaDgzdGx3aTQyOWt3azFuOGdueHdkeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CkzASXWphfkQ5CF6ny/giphy.gif" width="300px">
+    </td>
+  </tr>
+</table>
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,3 +42,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=code-by-adarsh&show_icons=true&theme=radical&locale=en" alt="code-by-adarsh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=code-by-adarsh&theme=highcontrast" alt="code-by-adarsh" /></p>
+
+
