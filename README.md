@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adarsh Mishra</h1>
 <h3 align="center">A passionate QA Automation Tester from India.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=code-by-adarsh&label=Profile%20views&color=f94f06&style=flat" alt="code-by-adarsh" height="100" width="100"/> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=code-by-adarsh&label=Profile%20views&color=fc0303&style=flat" alt="code-by-adarsh" height="100" width="100"/> </p>
 
 - 🔭 I’m currently working on **preparation for GSoC-2026.**
 
