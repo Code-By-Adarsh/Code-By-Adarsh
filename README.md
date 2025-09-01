@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **adarshmishra70931@gmail.com**
 
-- ⚡ Fun fact **I think I am unique.**
+- ⚡ Fun fact **I think I can.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
