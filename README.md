@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=code-by-adarsh&label=Profile%20views&color=fc0303&style=flat" alt="code-by-adarsh" height="100" width="100"/> </p>
 
-<table width="100%">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
     <!-- Left side details -->
     <td>
@@ -24,7 +24,7 @@
 
     <!-- Right side gif -->
     <td>
-      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGl1YjMzcnlwMThidWhiajVhaDgzdGx3aTQyOWt3azFuOGdueHdkeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CkzASXWphfkQ5CF6ny/giphy.gif" width="300px">
+      <img src="https://media0.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bGh6NHgxM244YTBieG41d3dtcnJwNDdvNXByenppaTRqd24zZWlvYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/IPWXYMP4t2ODvzwOYk/giphy.webp" width="300px">
     </td>
   </tr>
 </table>
