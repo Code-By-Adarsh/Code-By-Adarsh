@@ -22,7 +22,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/Adarsh Mishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Adarsh Mishra" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/adarsh-mishra-020482327" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Adarsh Mishra" height="30" width="40" /></a>
 <a href="https://instagram.com/ltx_adarsh18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ltx_adarsh18" height="50" width="50" /></a>
 </p>
 
