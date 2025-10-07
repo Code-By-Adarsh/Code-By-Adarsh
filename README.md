@@ -1,7 +1,7 @@
 ![logo](https://github.com/Code-By-Adarsh/Code-By-Adarsh/blob/main/MyNameBanner.jpg)
 
 <h1 align="center">Hi 👋, I'm Adarsh Mishra</h1>
-<h3 align="center">A passionate QA Engineer from India.</h3>
+<h3 align="center">A passionate QA Tester from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=code-by-adarsh&label=Profile%20views&color=0463fb&style=flat" alt="code-by-adarsh" height="100" width="100"/> </p>
 
