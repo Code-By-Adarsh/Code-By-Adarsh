@@ -1,3 +1,5 @@
+![logo](https://github.com/Code-By-Adarsh/Code-By-Adarsh/blob/main/Create%20a%201280x640%20pixels%20GitHub%20banner%20for%20a%20QA%20Engineer%20profile.%20The%20design%20should%20have%20a%20modern%2C%20techy%20vibe%20with%20a%20clean%20professional%20look.%20Include%20small%20animated%20bugs%20crawling%20around%20code%20lines%2C%20m%20(1).jpg)
+
 <h1 align="center">Hi 👋, I'm Adarsh Mishra</h1>
 <h3 align="center">A passionate QA Engineer from India.</h3>
 
@@ -16,7 +18,7 @@
 
 - ⚡ Fun fact **I think I am the big fan of Matser Gojo Saturo.**
 
-<img align="right" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExamZzemFyYTNhbzJvZmFybzJmN3R0dTF4anRpczg2MnM3NnN5eTRteiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/GghGKaZ8JeHJx0apQC/giphy.webp">
+<img align="right" width="300" height="300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExamZzemFyYTNhbzJvZmFybzJmN3R0dTF4anRpczg2MnM3NnN5eTRteiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/GghGKaZ8JeHJx0apQC/giphy.webp">
 
 
 <h3 align="left">Connect with me:</h3>
