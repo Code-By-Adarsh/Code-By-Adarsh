@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adarsh Mishra</h1>
-<h3 align="center">A passionate QA Automation Tester from India.</h3>
+<h3 align="center">A passionate QA Engineer from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=code-by-adarsh&label=Profile%20views&color=0463fb&style=flat" alt="code-by-adarsh" height="100" width="100"/> </p>
 
@@ -16,9 +16,8 @@
 
 - ⚡ Fun fact **I think I am the big fan of Matser Gojo Saturo.**
 
+<img align="right" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExamZzemFyYTNhbzJvZmFybzJmN3R0dTF4anRpczg2MnM3NnN5eTRteiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/GghGKaZ8JeHJx0apQC/giphy.webp">
 
-<p align="center"><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHVjcXhvMGhlNnlrMmVpZXg4cDA5Y2kxbnowbDFqb29kc28zdzc0ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/f7k6TfAFkiAqKVcJGH/200.webp" width="300" height="200">
-</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
