@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **startup ideas.**  
 
-- 💬 Ask me about **anything.**  
+- 💬 Ask me about **anything**  
 
 - 📫 How to reach me **adarshmishra70931@gmail.com**  
 
