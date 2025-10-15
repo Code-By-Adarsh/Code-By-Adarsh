@@ -6,19 +6,15 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=code-by-adarsh&label=Profile%20views&color=0463fb&style=flat" alt="code-by-adarsh" height="100" width="100"/> </p>
 
       
-- 🔭 I’m currently working on **preparation for GSoC-2026.**  
+- 🔭 Software Testing Enthusiast | Building Skills in Core Java, Manual & Automation Testing
 
-- 🌱 I’m currently learning **Manual testing, Selenium and Jenkins.**  
+- 🌱 Skilled in **Manual Testing, Java, Git & GitHub, MySql, Selenium and TestNG.**
 
-- 👯 I’m looking to collaborate on **startup ideas.**  
-
-- 💬 Ask me about **anything**  
+- 👯 Building skill in **Playwright, Jenkins, Maven, Appium, Rest-Assured, Postman API, JUnit, BDD(Cucumber), Jira and TestRail.**  
 
 - 📫 How to reach me **adarshmishra70931@gmail.com**  
 
-- ⚡ Fun fact **I think I am the big fan of Matser Gojo Saturo.**
-
-<img align="right" width="300" height="300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExamZzemFyYTNhbzJvZmFybzJmN3R0dTF4anRpczg2MnM3NnN5eTRteiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/GghGKaZ8JeHJx0apQC/giphy.webp">
+- ⚡ **Believe In Yourself.**
 
 
 <h3 align="left">Connect with me:</h3>
