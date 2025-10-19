@@ -11,7 +11,7 @@
 
 - 🌱 Skilled in **Manual Testing, Java, Git & GitHub, MySql, Selenium and TestNG.**
 
-- 👯 Building skill in **Playwright, Jenkins, Maven, Appium, Rest-Assured, Postman API, JUnit, BDD(Cucumber), Jira and TestRail.**  
+- 👯 Building skill in **Playwright, Jenkins, Maven, Appium, Rest-Assured, Postman API, BDD(Cucumber), Jira and TestRail.**  
 
 - 📫 How to reach me **adarshmishra70931@gmail.com**  
 
