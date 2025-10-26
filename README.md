@@ -9,7 +9,7 @@
       
 - 🔭 Software Testing Enthusiast | Building Skills in Core Java, Manual & Automation Testing
 
-- 🌱 Skilled in **Manual Testing, Java, Git & GitHub, MySql, Selenium and TestNG.**
+- 🌱 Skilled in **Manual Testing, Automation Testing, Java, Git & GitHub, MySql, Selenium and TestNG.**
 
 - 👯 Building skill in **Playwright, Jenkins, Maven, Appium, Rest-Assured, Postman API, BDD(Cucumber), Jira and TestRail.**  
 
