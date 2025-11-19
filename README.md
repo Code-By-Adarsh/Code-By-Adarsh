@@ -29,6 +29,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=code-by-adarsh&theme=highcontrast" alt="code-by-adarsh" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=code-by-adarsh&show_icons=true&theme=synthwave&title_color=ffffff&locale=en" alt="code-by-adarsh" /></p>
+
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
