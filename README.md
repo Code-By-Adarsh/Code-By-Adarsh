@@ -1,8 +1,4 @@
-![logo](https://github.com/Code-By-Adarsh/Code-By-Adarsh/blob/main/MyNameBanner.jpg)
-
-<h1 align="center">Hi 👋, I'm Adarsh Mishra</h1>
-<h3 align="center">A passionate QA Engineer from India.</h3>
-<h3 align="center">In the learning phase of Software Testing......</h3><br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=150&text=👏Hi,%20I'm%20Adarsh%20Mishra&fontSize=50&fontColor=61DAFB&fontAlignY=45&animation=twinkling&desc=Software%20Tester%20|%20Problem%20Solver%20|%20Tech%20Enthusiast&descSize=27&descAlignY=85&section=header" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=code-by-adarsh&label=Profile%20views&color=0463fb&style=flat" alt="code-by-adarsh" height="100" width="100"/> </p>
 
