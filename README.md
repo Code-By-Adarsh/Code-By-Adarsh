@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **adarshmishra70931@gmail.com**  
 
-- ⚡ **Believe In Yourself.**
+- ⚡ **Believe In Yourself..**
 
 ---
 
