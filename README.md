@@ -60,7 +60,7 @@
 ### ⚙️ Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,leetcode,idea,netlify,vscode,windows&theme=light" />
+    <img src="https://skillicons.dev/icons?i=git,github,idea,netlify,vscode,windows&theme=light" />
   </a>
 </p>
 
