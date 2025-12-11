@@ -26,10 +26,6 @@
   <a href="https://www.instagram.com/ltx_adarsh18">
     <img src="https://img.shields.io/badge/Instagram-091519?style=for-the-badge&logo=instagram&logoColor=61DAFB" />
   </a>
-  </a>
-  <a href="https://leetcode.com/u/Adarsh-Mishra04/">
-    <img src="https://img.shields.io/badge/LeetCode-091519?style=for-the-badge&logo=leetcode&logoColor=61DAFB" />
-  </a>
 </p>
 
 <p align="center">
