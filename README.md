@@ -4,9 +4,9 @@
 
 - 🔭 Software Testing Enthusiast | Building Skills in Core Java, Manual & Automation Testing
 
-- 🌱 Skilled in **Manual Testing, Automation Testing, Java, Git & GitHub, Maven, MySql, Selenium, TestNG, POM and Testing Framework.**
+- 🌱 Skilled in **Manual Testing, Automation Testing, Java, Git & GitHub, Maven, MySql, Selenium, TestNG, POM, Testing Framework and Postman.**
 
-- 👯 Building skill in **Playwright, Jenkins, Appium, Rest-Assured, Postman API, JUnit, BDD(Cucumber), Jira and TestRail.**  
+- 👯 Building skill in **Playwright, Jenkins, Appium, Rest-Assured, JUnit, BDD(Cucumber), Jira.**  
 
 - 📫 How to reach me **adarshmishra70931@gmail.com**  
 
