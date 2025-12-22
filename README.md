@@ -62,6 +62,34 @@
 
 ---
 
+## 🎓 Certifications & Badges
+
+<a href="https://badges.parchment.com/public/assertions/TQLsqhmkT6iz7A9Zab9DfA" target="_blank">
+  <img src="https://badges.parchment.com/public/assertions/TQLsqhmkT6iz7A9Zab9DfA/image" width="120" alt="Postman Student Expert Badge"/>
+</a>
+
+### Postman API Fundamentals – Student Expert  
+**Issued by Postman**
+
+This certification validates my hands-on understanding of **REST APIs** and **API testing fundamentals**, with practical exposure to real-world API workflows.
+
+**What I learned & practiced:**
+- REST architecture, HTTP methods & status codes  
+- API request/response validation  
+- Writing automated tests using `pm.test()`  
+- Using environments, variables, and collections  
+- Basic API workflows (CRUD operations)
+
+**How I apply this knowledge:**
+- API testing using Postman alongside manual & automation testing  
+- Writing assertions and validating API behavior in QA projects  
+- Supporting backend testing in full STLC-based test setups  
+
+🔗 **Verify badge:**  
+https://badges.parchment.com/public/assertions/TQLsqhmkT6iz7A9Zab9DfA
+
+---
+
 ## ✍️ Random Dev Quote
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&bg_color=0:3a8296,100:000000&border_color=61DAFB&text_color=61DAFB" />
