@@ -62,7 +62,7 @@
 
 ---
 
-## 🎓 Certifications
+## 🎓 Certifications & Badges
 
 <a href="https://badges.parchment.com/public/assertions/TQLsqhmkT6iz7A9Zab9DfA" target="_blank">
   <img src="https://badges.parchment.com/public/assertions/TQLsqhmkT6iz7A9Zab9DfA/image" width="120" alt="Postman Student Expert Badge"/>
