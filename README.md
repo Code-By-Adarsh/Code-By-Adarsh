@@ -4,9 +4,9 @@
 
 - 🔭 Software Testing Enthusiast | Building Skills in Core Java, Manual & Automation Testing
 
-- 🌱 Skilled in **Manual Testing, Automation Testing, Java, Git & GitHub, Maven, MySql, Selenium, TestNG, POM, Testing Framework and Postman.**
+- 🌱 Skilled in **Manual Testing, Automation Testing, Java, Git & GitHub, Maven, MySql, Selenium, TestNG, POM, Testing Framework, Jira and Postman.**
 
-- 👯 Building skill in **Playwright, Jenkins, Appium, Rest-Assured, JUnit, BDD(Cucumber), Jira.**  
+- 👯 Building skill in **Playwright, Jenkins, Appium, Rest-Assured, JUnit, BDD(Cucumber).**  
 
 - 📫 How to reach me **adarshmishra70931@gmail.com**  
 
@@ -41,13 +41,13 @@
 
 ### 🧠 Skills
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,selenium,jenkins,postman,maven,mysql&theme=light" />
+  <a href="https://go-skill-icons.vercel.app/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=java,selenium,jenkins,postman,maven,mysql&theme=light" />
   </a>
 </p>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,html,css,py&theme=light" />
+  <a href="https://go-skill-icons.vercel.app/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=jira,git,github,html,css,py&theme=light" />
   </a>
 </p>
 
@@ -55,8 +55,8 @@
 
 ### ⚙️ Tools
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,idea,netlify,vscode,windows&theme=light" />
+  <a href="https://go-skill-icons.vercel.app/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,jira,idea,netlify,vscode,windows&theme=light" />
   </a>
 </p>
 
