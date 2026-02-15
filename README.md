@@ -2,15 +2,15 @@
 
 ---
 
-- 🔭 Software Testing Enthusiast | Building Skills in Core Java, Manual & Automation Testing
+### 👨‍💻 About Me
 
-- 🌱 Skilled in **Manual Testing, Automation Testing, Java, Git & GitHub, Maven, MySql, Selenium, TestNG, POM, Testing Framework, Jira and Postman.**
+- 🔭 Java Backend Developer | Building scalable and production-ready backend systems  
 
-- 👯 Building skill in **Playwright, Jenkins, Appium, Rest-Assured, JUnit, BDD(Cucumber).**  
+- 🌱 Currently strengthening **Core Java, DSA, Spring Boot, REST APIs & Database Design**  
 
-- 📫 How to reach me **adarshmishra70931@gmail.com**  
+- 🛠 Tech Stack: **Java • Spring Boot • MySQL • Maven • Git & GitHub**  
 
-- ⚡ **Believe In Yourself.**
+- 📫 Reach me at: **adarshmishra70931@gmail.com**
 
 ---
 
