@@ -2,15 +2,21 @@
 
 ---
 
-### 👨‍💻 About Me
+## 👋 About Me
 
-- 🔭 Java Backend Developer | Building scalable and production-ready backend systems  
+🚀 Aspiring Java Backend & QA Automation Engineer  
+💡 Building strong foundations in Core Java, DSA & Backend Development  
+🧪 Skilled in Manual Testing & Automation (Selenium, TestNG)  
+📦 Currently working with Spring Boot, REST APIs & MySQL  
 
-- 🌱 Currently strengthening **Core Java, DSA, Spring Boot, REST APIs & Database Design**  
+---
 
-- 🛠 Tech Stack: **Java • Spring Boot • MySQL • Maven • Git & GitHub**  
+## 🛠 Tech Stack
+**Java • Spring Boot • MySQL • Maven • Git & GitHub • Selenium • TestNG • Postman • Jira**
 
-- 📫 Reach me at: **adarshmishra70931@gmail.com**
+---
+
+📫 Reach me at: adarshmishra70931@gmail.com
 
 ---
 
