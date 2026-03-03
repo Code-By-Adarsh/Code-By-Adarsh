@@ -4,10 +4,10 @@
 
 ## 👋 About Me
 
-🚀 Aspiring Java Backend & QA Automation Engineer  
-💡 Building strong foundations in Core Java, DSA & Backend Development  
-🧪 Skilled in Manual Testing & Automation (Selenium, TestNG)  
-📦 Currently working with Spring Boot, REST APIs & MySQL  
+### 🚀 Aspiring Java Backend & QA Automation Engineer  
+### 💡 Building strong foundations in Core Java, DSA & Backend Development  
+### 🧪 Skilled in Manual Testing & Automation (Selenium, TestNG)  
+### 📦 Currently working with Spring Boot, REST APIs & MySQL  
 
 ---
 
