@@ -1,21 +1,21 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=150&text=👏Hi,%20I'm%20Adarsh%20Mishra&fontSize=60&fontColor=61DAFB&fontAlignY=45&animation=twinkling&desc=Software%20Tester%20|%20QA%20Automation%20|%20Java%20Backend%20Learner%20&descSize=27&descAlignY=85&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=150&text=👏Hi,%20I'm%20Adarsh%20Mishra&fontSize=60&fontColor=61DAFB&fontAlignY=45&animation=twinkling&desc=Software%20Tester%20|%20QA%20Automation%20&descSize=27&descAlignY=85&section=header" />
 
 ---
 
 ## 👋 About Me
 
-🚀 Aspiring Java Backend & QA Automation Engineer  
+🚀 Aspiring QA Automation Engineer  
 
-💡 Building strong foundations in Core Java, DSA & Backend Development 
+💡 Building strong experience in AI, Database and API Testing 
 
 🧪 Skilled in Manual Testing & Automation (Selenium, TestNG)  
 
-📦 Currently working with Spring Boot, REST APIs & MySQL  
+📦 Currently working with Jira, Postman, Mysql, Selenium, Maven  
 
 ---
 
 ## 🛠 Tech Stack
-**Java • Spring Boot • MySQL • Maven • Git & GitHub • Selenium • TestNG • Postman • Jira**
+**Java • MySQL • Maven • Git & GitHub • Selenium • TestNG • Postman • Jira**
 
 ---
 
