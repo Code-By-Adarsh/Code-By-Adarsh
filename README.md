@@ -4,7 +4,7 @@
 
 ## 👋 About Me
 
-🚀 Aspiring QA Automation Engineer  
+🚀 Aspiring QA Automation Tester  
 
 💡 Building strong experience in AI, Database and API Testing 
 
