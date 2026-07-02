@@ -15,7 +15,7 @@
 ---
 
 ## 🛠 Tech Stack
-**Java • MySQL • Maven • Git & GitHub • Selenium • TestNG • Postman • Jira**
+**Java • JavaScript • MySQL • Maven • Git & GitHub • Selenium • TestNG • Postman • Jira**
 
 ---
 
@@ -31,9 +31,6 @@
   </a>
   <a href="https://www.linkedin.com/in/adarsh-jayprakash-mishra">
     <img src="https://img.shields.io/badge/LinkedIn-091519?style=for-the-badge&logo=linkedin&logoColor=61DAFB" />
-  </a>
-  <a href="https://www.instagram.com/ltx_adarsh18">
-    <img src="https://img.shields.io/badge/Instagram-091519?style=for-the-badge&logo=instagram&logoColor=61DAFB" />
   </a>
 </p>
 
@@ -51,7 +48,7 @@
 ### 🧠 Skills
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=java,selenium,jenkins,postman,maven,mysql&theme=light" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=java,javascript,selenium,jenkins,postman,maven,mysql&theme=light" />
   </a>
 </p>
 <p align="center">
